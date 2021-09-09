@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 from time import sleep
 
 USERNAME = 'hugomat'
-PASSWORD = 'qf5vw89fz14ap04' 
+PASSWORD = '--------------' 
 
 # SIMPLE ROUTINE LOGIN -> VACANT OBJECTS -> FILTER -> LIST VACANT OBJECTS
 
